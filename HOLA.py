@@ -9,4 +9,10 @@ for i in range(5):
 frase = str(input("Escribe una frase!"))
 
 print (frase)
+
+x = 10
+y= 8
+while x < 20:
+	print(y)
+	x = x + 1
 	
