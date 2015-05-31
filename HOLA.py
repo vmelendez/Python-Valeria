@@ -21,10 +21,10 @@ frase2 = input (str("Escribe otra frase!"))
 print (frase2)
 
 i = 2
-z = 8
-while i < 20:
+z = 4
+while i < 12:
 	print (y)
 	i = i + 1
-	print ("jajajajaja")
+print ("jajajajaja")
 
 
